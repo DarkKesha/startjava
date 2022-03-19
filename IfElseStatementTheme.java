@@ -21,5 +21,12 @@ public class IfElseStatementTheme {
         } else {
             System.out.println("true");
         }
+
+        int min = 1;
+        int max = 2;
+        if(min<max) {
+            System.out.println(min);
+            System.out.println(max);
+        }
     }
 }
