@@ -18,5 +18,12 @@ public class VariablesTheme {
         int z = ((x + y) * 11) / 100;
         System.out.println(x + y - z);
         System.out.println(z);
+
+        System.out.println ("J    "+"a  "+"v     "+"v  "+"a");
+        System.out.println ("J   "+"a "+"a  "+"v   "+"v  "+"a "+"a");
+        System.out.println ("J  "+"J  "+"aaaaa  "+"V "+"V  "+"aaaaa");
+        System.out.println ("JJ  "+"a     "+"a  "+"V  "+"a     "+"a");
+
+        
     }
 }
